@@ -4,13 +4,13 @@ title: Startup Hub
 
 # Startup Hub
 
-Welcome to my startup knowledge base from Startmate Launch Club.
-Made by Cing Hoih on behalf of CORTEXO.
+Welcome to my startup knowledge base from **Startmate Launch Club**.
+Made by *Cing Hoih* on behalf of **CORTEXO**.
 
 ## Browse Content
 - Use the explorer on the left to navigate all my notes
-- Check out the graph view to see connections
 - Use search to find specific topics
+- Use the table of contents on the right
 
 ## Quick Links
 - [[09-SEP-2025]]
