@@ -15,7 +15,7 @@
 |2|Problem checklist|Paid-for, big market, end-of-one, within capability, users aware of problem|Any “no” on these for now|
 |3|Minimal Viable Test (MVT)|1–24 hour validation; build decks, landing pages, Stripe link, demos|No credible signal in 24–72h|
 |4|PMF check|Are people paying and satisfied? Growth consistent?|If not, add JTBD (features) or switch idea|
-|5|Scale|When $1 reliably becomes >$1 back, scale spend; otherwise keep sweat, not cash|Don’t prematurely scale|
+|5|Scale|When \\$1 reliably becomes >\\$1 back, scale spend; otherwise keep sweat, not cash|Don’t prematurely scale|
 
 ### What counts as PMF (Ajay’s bar)
 
@@ -36,23 +36,23 @@
 
 |Experiment|Approach|Result|Decision|
 |---|---|---|---|
-|FeatureProof (exec deep-tech briefings)|Canva deck + 100 emails + Stripe|~$3k in 5 days|Refunded; not pursuing|
-|EntryLevel (6-week automated bootcamps)|Webflow site + custom viral loop|30k signups in 30 days; later $100k MRR burst|Doubled down; eventual acquisition by HEX|
-|Virtual Coaching (career/PT)|Simple offer|~$300 MRR|Dropped|
-|HireFlux (no-resume recruitment)|Verbal enterprise close pending|Would make $|Killed on mission misalignment|
+|FeatureProof (exec deep-tech briefings)|Canva deck + 100 emails + Stripe|~\$3k in 5 days|Refunded; not pursuing|
+|EntryLevel (6-week automated bootcamps)|Webflow site + custom viral loop|30k signups in 30 days; later \$100k MRR burst|Doubled down; eventual acquisition by HEX|
+|Virtual Coaching (career/PT)|Simple offer|~\$300 MRR|Dropped|
+|HireFlux (no-resume recruitment)|Verbal enterprise close pending|Would make \$|Killed on mission misalignment|
 
 ### Two breakout growth bets (no A/B testing)
 
 - Viral loop campaign via FB ads + groups: 0 → 30k signups in 30 days.
-- 100% refund on course completion + upsell loop: 0 → $100k MRR in months; 75% retained funds despite refund offer.
+- 100% refund on course completion + upsell loop: 0 → \$100k MRR in months; 75% retained funds despite refund offer.
 
 ### Money, risk, and spend
 
 |Principle|Guidance|
 |---|---|
-|Spend timing|$1k–$5k max on unproven ideas; scale only when $1 consistently returns >$1|
+|Spend timing|\$1k–\$5k max on unproven ideas; scale only when \$1 consistently returns >\$1|
 |Risk profile|Risk time and looking foolish; don’t risk ethics. Be resourceful before cash-heavy|
-|Build cost|MVPs can be <$1.5k using="" no-code="" AI="" (Bubble="" dev,="" design,="" Stripe)=""|
+|Build cost|MVPs can be <\$1.5k using="" no-code="" AI="" (Bubble="" dev,="" design,="" Stripe)=""|
 |Don’t educate the market|Prioritize problems users already know they have|
 
 ### B2B specifics
@@ -85,7 +85,7 @@
 |1|One-liner problem + target user|Problem is known/paid-for by user|
 |2|Asset|Deck OR 1-page site with Stripe link OR demo video|
 |3|Outreach|100 targeted emails/DMs; or 10 high-intent buyers|
-|4|Signal|Ideally $ collected; else LOIs/pilot commits; else clear “no” with learning|
+|4|Signal|Ideally \$ collected; else LOIs/pilot commits; else clear “no” with learning|
 |5|Debrief|What to change tomorrow (offer, segment, channel, JTBD)|
 
 ### Q&A highlights (selected)

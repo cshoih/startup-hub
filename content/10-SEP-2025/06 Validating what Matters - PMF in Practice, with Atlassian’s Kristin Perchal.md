@@ -94,7 +94,7 @@ You’re closer to PMF when: Push + Pull > Inertia + Anxiety
 
 |Layer|Signals to watch|Cautions|
 |---|---|---|
-|Market|Willingness to pay (even $5–$50 consult), LOIs/paid pilots, word-of-mouth growth|Novelty spikes ≠ PMF|
+|Market|Willingness to pay (even \$5–\$50 consult), LOIs/paid pilots, word-of-mouth growth|Novelty spikes ≠ PMF|
 |Product|Time-to-value, activation (aha completion), >40% retention plateau in cohorts|Don’t optimize vanity metrics|
 |Sales/GTM|Pull > push (inbound, easier close), clear ICP resonance, repeatable motion|Avoid chasing every request|
 |Churn|Clear reasons tied to context; acceptable if not your target|Dig in when “right customers” churn|

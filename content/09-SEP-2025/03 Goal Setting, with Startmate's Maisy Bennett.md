@@ -34,7 +34,7 @@
 | 1     | Validate idea                              | 15+ interviews/week; deep problem mapping; 50+ waitlist by week 6–7; low‑fi wireframes                       |
 | 2     | Build MVP                                  | Continue interviews; MVP milestones/dates; user tests; define value/retention metrics                        |
 | 3     | Get users                                  | DAU/WAU targets; activation; “customer love” signals; convert signups to active use                          |
-| 4     | Revenue                                    | Turn on revenue; aim ~10% WoW (≈40% MoM) after first $; pace toward ~$1M ARR in ~12 months (venture path)   |
+| 4     | Revenue                                    | Turn on revenue; aim ~10% WoW (≈40% MoM) after first \$; pace toward ~\$1M ARR in ~12 months (venture path)   |
 
 ### Three goal types to set every cycle
 
@@ -49,15 +49,15 @@
 | Milestone            | Best-in-class guide                                          |
 |----------------------|--------------------------------------------------------------|
 | Post first revenue   | ~10% WoW growth (≈40% MoM)                                   |
-| Year-1 venture bar   | Rough path toward ~$1M ARR in ~12 months (model dependent)  |
+| Year-1 venture bar   | Rough path toward ~\$1M ARR in ~12 months (model dependent)  |
 
 ### Example: Input pivots to hit MRR
 
 | Iteration | Outreach inputs                                   | Result (MRR) | Notes                                                           |
 |-----------|----------------------------------------------------|--------------|------------------------------------------------------------------|
-| v1        | 210 cold outbound emails                           | ~$2k         | Insufficient velocity                                            |
-| v2        | 1,000 low-touch + 10 high-touch warm intros        | ~$3k         | Added high-touch leverage                                        |
-| v3        | 2,000 low-touch + maintain 10 high-touch           | ~$5k → $8k   | ~50% MoM growth; momentum into demo day                          |
+| v1        | 210 cold outbound emails                           | ~\$2k         | Insufficient velocity                                            |
+| v2        | 1,000 low-touch + 10 high-touch warm intros        | ~\$3k         | Added high-touch leverage                                        |
+| v3        | 2,000 low-touch + maintain 10 high-touch           | ~\$5k → \$8k   | ~50% MoM growth; momentum into demo day                          |
 
 ### Mindset checks
 
@@ -86,7 +86,7 @@
 |----------|------------------------------------|--------------------------------------------------|-------------------------------------|-------------------------------------------------------|
 | Customer | X interviews/demos per week        | Total Y interviews/demos; Z design partners      | ≥ N per week                        | Qualified ICPs; actionable insights per week          |
 | Product  | Current milestone status           | MVP/beta dates; features; UX validation          | Weekly build + test cadence         | DAU/WAU = A; activation ≥ B%; retention ≥ C%          |
-| Revenue  | $MRR and # paying customers        | Reach $Z MRR; add P paying customers             | 10% WoW growth after first dollar   | LOIs/presales/pilots convert to paid usage            |
+| Revenue  | \$MRR and # paying customers        | Reach \$Z MRR; add P paying customers             | 10% WoW growth after first dollar   | LOIs/presales/pilots convert to paid usage            |
 
 ### Practical metrics you can choose
 
@@ -96,7 +96,7 @@
 | Usage        | DAU/WAU; key feature adoption; session frequency/cadence                                 |
 | Retention    | Week-4 retained %, day-7 return %, cohort curves                                         |
 | Love/value   | “Very disappointed if removed” %, qualitative quotes, NPS (later), repeat task completion |
-| Demand       | # signed LOIs; # paid pilots; presale $; MRR; # paying customers                         |
+| Demand       | # signed LOIs; # paid pilots; presale \$; MRR; # paying customers                         |
 
 ### Workshop logistics and follow-ups
 

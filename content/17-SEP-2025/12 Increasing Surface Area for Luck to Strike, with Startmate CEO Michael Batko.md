@@ -26,7 +26,7 @@
 
 ### Startmate context you can leverage
 - Network: 300+ portfolio companies; mentors, First Believers, alumni founders/investors
-- Programs: Accelerator checks (~$120k) + continuity fund (up to ~$500k) for alumni follow-ons
+- Programs: Accelerator checks (~\$120k) + continuity fund (up to ~\$500k) for alumni follow-ons
 - Channels: Slack DMs to 6.5k members; Demo Days (next: Thu 23 Oct, Melbourne, 6pm)
 
 ### Tactics that work (stories)

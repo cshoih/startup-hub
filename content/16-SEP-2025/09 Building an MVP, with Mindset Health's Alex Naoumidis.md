@@ -10,7 +10,7 @@
 
 ### About the speaker (Alex Naoumidis)
 - Role: Co-founder & CEO, Mindset Health (digital therapeutics; e.g., Nerva for IBS)
-- Background: Accounting/finance student → self-taught developer with his brother → YC alum → scaled to 40+ team, $30M raised
+- Background: Accounting/finance student → self-taught developer with his brother → YC alum → scaled to 40+ team,\$30M raised
 - Focus: Foundation model for psychophysiology; AI-powered therapeutics
 - Hard-won lessons: Shipped complex product too slowly at first; pivoted to “good but small,” tight build–talk–iterate loop
 
@@ -118,7 +118,7 @@
 | Milestone             | Guidepost                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
 | Post first revenue    | ~10% WoW growth (≈40% MoM)                                                |
-| Year-1 venture path   | Rough trajectory toward ~$1M ARR in ~12 months (model/market dependent)   |
+| Year-1 venture path   | Rough trajectory toward ~\$1M ARR in ~12 months (model/market dependent)   |
 
 ### MVP action template (fill this in)
 
@@ -126,7 +126,7 @@
 |----------|------------------------------------------|---------------------------------------------------|---------------------------------------------|--------------------------------------------------|
 | Customer | X interviews/demos per week              | ≥ Y total interviews; Z live usability sessions   | ≥ N interviews + M sales calls              | 3–5 actionable insights/week; clear objections   |
 | Product  | Current state (none/prototype/beta)      | Ship “good but small” MVP (screens A→B→value)     | 1 build + 1 release + 1 test cycle/week     | Activation ≥ B%; crash rate ~0; clear UX path    |
-| Revenue  | $MRR and # paying/presales               | Pre-orders or paid trial starts ($Z or P users)   | Daily outreach volume; trial activations    | Trial→paid ≥ T%; CAC-to-preorder within bounds   |
+| Revenue  | \$MRR and # paying/presales               | Pre-orders or paid trial starts (\$Z or P users)   | Daily outreach volume; trial activations    | Trial→paid ≥ T%; CAC-to-preorder within bounds   |
 
 ### Practical metrics you can choose
 

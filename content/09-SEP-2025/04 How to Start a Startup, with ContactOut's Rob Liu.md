@@ -5,7 +5,7 @@
 - Speaker: Rob Liu (Founder, Athena VC; Co-founder, ContactOut; ex-Groupon)
 - https://www.linkedin.com/in/robliu/
 - Topic: Crash course on starting a startup by “stealing” ideas, learning fast, and validating through customers
-- Company metrics shared: ContactOut ~60 people, ~$14M revenue, ~$10M profit
+- Company metrics shared: ContactOut ~60 people, ~\$14M revenue, ~\$10M profit
 
 ### Core thesis
 - Good artists copy, great artists steal: Study winning companies and industries, extract what works, recombine into a 10x better solution.
@@ -38,14 +38,14 @@
 | Product UX | Click through 10+ competitors; screen-by-screen strengths/weaknesses | Build your merged UX |
 | Sales | Book their demos; record calls; capture pitch decks and sequences | Build a best-of sales flow |
 | Marketing | Spy on SEO keywords, ad libraries, referral mechanics, social | Replicate and adapt (e.g., “James Clear email” SEO pages) |
-| Inside info | DM ex-founders/ex-employees for mentoring (offer $500) | Learn data sourcing, sales playbooks (e.g., ZoomInfo address book strategy) |
+| Inside info | DM ex-founders/ex-employees for mentoring (offer \$500) | Learn data sourcing, sales playbooks (e.g., ZoomInfo address book strategy) |
 | Advisory | Use intro.co to book unicorn founders | High ROI insights quickly |
 
 ### Customer discovery and validation
 
 | Goal | Tactics | Targets/Signals |
 |------|--------|-----------------|
-| Understand workflows | 100+ interviews; map jobs, pains, current tools, gaps | “What would you pay $50k for next month?” |
+| Understand workflows | 100+ interviews; map jobs, pains, current tools, gaps | “What would you pay \$50k for next month?” |
 | Validate demand | Presell, paid pilots, LOIs | Cash or clear willingness to pay |
 | Build smallest thing | Start with the highest-ROI feature only | ContactOut started with email lookup |
 | Manual first | Do it by hand behind an API if needed | Learn before automating |
@@ -57,7 +57,7 @@
 |---------|------------------|------|
 | SEO | Copy proven intent pages from competitors | ContactOut: ~2M visitors/mo via SEO |
 | Outbound | SDR motions, cold email, LinkedIn | Test targeting hypotheses quickly |
-| Ads | $5–$100 experiments to find ICPs | Let CPC/conv data guide |
+| Ads | \$5–\$100 experiments to find ICPs | Let CPC/conv data guide |
 | Referrals/partners | Copy competitor referral designs; sign ecosystem partners | Leverage existing CRMs/platforms |
 | Content/social | Mirror competitors’ channels (TikTok/YouTube/etc.) | Learn what resonates in niche |
 
@@ -119,7 +119,7 @@
 |------|----------|-------------------|------------------|
 | Customer discovery | X interviews/week | Y total; Z decision-makers | Clear top-3 pains; pricing signals |
 | Product | — | MVP live to N users | ≥B% activation; time-to-value ≤ T |
-| Revenue | $0 or $MRR | 1–3 paid pilots or $A MRR | 10% WoW post-first dollar |
+| Revenue | \$0 or \$MRR | 1–3 paid pilots or \$A MRR | 10% WoW post-first dollar |
 | Growth | 0 | SEO pages P; outbound Q/wk; ads test R | ≥ S signups/wk or cost/conv threshold |
 
 ### Action items for you

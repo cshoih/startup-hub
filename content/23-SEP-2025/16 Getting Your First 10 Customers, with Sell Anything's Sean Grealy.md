@@ -11,7 +11,7 @@
 
 - Doctor, not Wolf of Wall Street: diagnose, prescribe, earn trust
 - Do things that don’t scale to learn fast; then document and systemize
-- Everyone sells from 0→$1M ARR: product, eng, marketing, CS—align on revenue and learning
+- Everyone sells from 0→\$1M ARR: product, eng, marketing, CS—align on revenue and learning
 
 ### Buyer journey (don’t skip beyond “closed-won”)
 
