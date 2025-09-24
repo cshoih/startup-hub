@@ -2,7 +2,7 @@
 title: Startup Hub
 ---
 
-# Startup Hub
+# Hola!
 
 Welcome to my startup knowledge base from **Startmate Launch Club**.
 Made by *Cing Hoih* on behalf of **CORTEXO**.
