@@ -2,7 +2,7 @@
 
 ### Session context
 - Format: Masterclass + live Q&A with slides and resources
-- Speaker: Emma Grife, Accelerator Lead at Startmate; ex-Insight Partners (growth VC, $10M+ checks)
+- Speaker: Emma Grife, Accelerator Lead at Startmate; ex-Insight Partners (growth VC, \$10M+ checks)
 - https://www.linkedin.com/in/emmagrife/
 - Focus: Australian funding landscape, Startmate programs, practical fundraising advice
 
@@ -32,7 +32,7 @@
 **What they care about (varies by stage):**
 - **Early stage**: Founder expertise, product impressiveness, vision, some progress
 - **Later stage**: More emphasis on traction, revenue, growth metrics
-- **All stages**: Venture-scalable outcome (potential for $100M+ business, not lifestyle business)
+- **All stages**: Venture-scalable outcome (potential for \$100M+ business, not lifestyle business)
 
 **Australian examples:**
 - **Startmate**: Pre-seed/seed, very early stage
@@ -89,16 +89,16 @@
 ### Startmate funding options
 
 #### Spark Fund
-- **Amount**: Up to $30K (flexible)
+- **Amount**: Up to \$30K (flexible)
 - **Stage**: Very early (idea stage, testing MVP)
 - **Process**: Year-round applications on website
 - **Best for**: Pre-product founders
 
 #### Accelerator Program
-- **Investment**: $120K at $1.5M post-money valuation (or match latest valuation)
+- **Investment**: \$120K at \$1.5M post-money valuation (or match latest valuation)
 - **Program**: 12 weeks, remote-first with in-person bookends
 - **Requirements**: Full-time commitment post-acceptance
-- **Track record**: 250+ startups over 15 years; 50%+ raise post-program (median $2M)
+- **Track record**: 250+ startups over 15 years; 50%+ raise post-program (median \$2M)
 
 **Program structure:**
 - Bespoke curriculum based on cohort needs

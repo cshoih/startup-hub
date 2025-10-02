@@ -20,7 +20,7 @@
 - 1986-1997: Microsoft/Amazon IPO investors got ~3000x returns
 - 2000s+: Google 77x, Facebook 15.7x, Uber 2.25x at IPO
 - **Key insight**: Companies stay private longer → returns happen in private markets
-- **Examples**: Peter Thiel (Facebook): $500K → $1.1B; Jason Calacanis (Uber): $25K → $100M
+- **Examples**: Peter Thiel (Facebook): \$500K → \$1.1B; Jason Calacanis (Uber): \$25K → \$100M
 
 #### The power law reality
 **Typical VC portfolio of 100 companies:**
@@ -30,7 +30,7 @@
 - 2% return 20x+ (these drive all profits)
 - Top 1 company often generates more profit than all others combined
 
-**Implication**: VCs need venture-scalable outcomes (potential $100M+ businesses), not lifestyle businesses
+**Implication**: VCs need venture-scalable outcomes (potential \$100M+ businesses), not lifestyle businesses
 
 ### The Startmate selection framework
 
