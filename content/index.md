@@ -12,7 +12,7 @@ Made by *Cing Hoih* on behalf of **CORTEXO**.
 ## 🎯 Getting Started & Foundation
 - [[03 Goal Setting, with Startmate's Maisy Bennett]] - Set clear objectives
 - [[04 How to Start a Startup, with ContactOut's Rob Liu]] - Essential first steps
-- [[23 Startup Playbook]] - Comprehensive framework
+- [[23 Startup Playbook, with Kate Herbert (ex Startmate Investment Associate)]] - Comprehensive framework
 
 ## 👥 Customer Discovery & Validation
 - [[05 Identifying your first customers; a deep-dive into personas, with Stella Startup's Gemma Clancy]] - Find your ideal customer
@@ -30,7 +30,7 @@ Made by *Cing Hoih* on behalf of **CORTEXO**.
 - [[16 Getting Your First 10 Customers, with Sell Anything's Sean Grealy]] - Land first customers
 - [[18 Growth Hacking, with Turo's Anna Cheng]] - Explosive growth strategies
 - [[19 No fluff GTM Playbook for Early-stage Founders, with AltMonday's Angela Catalan]] - Go-to-market strategies
-- [[11 $0 to $2.3M in 18 months, with Order Editing's Hamish McKay]] - Revenue growth case study
+- [[11 \$0 to \$2.3M in 18 months, with Order Editing's Hamish McKay]] - Revenue growth case study
 
 ## 💰 Monetization & Pricing
 - [[20 Monetisation and Pricing Strategies, with Oliver Berger]] - Pricing strategies
