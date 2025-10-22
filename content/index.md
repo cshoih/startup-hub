@@ -44,6 +44,6 @@ Made by *Cing Hoih* on behalf of **CORTEXO**.
 - [[27 Nailing Your Pitch, with Startmate's Emma Grife]] - Perfect your pitch
 - [[29 Beyond the Deck: Storytelling Strategies for Winning Pitches, with Tinybean's Sarah-Jane Kurtini]] - Storytelling techniques
 
-## Bonus
+## ⭐ Bonus
 - [[Accelerator S26 Information Session AMA]]
 - [[33 Accelerator Application Hacks, with Startmate's Sam Monkhouse]]
