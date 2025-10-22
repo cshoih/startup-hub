@@ -43,3 +43,6 @@ Made by *Cing Hoih* on behalf of **CORTEXO**.
 - [[25 What Investors Look For, with Startmate's Ben Simai]] - Investor criteria
 - [[27 Nailing Your Pitch, with Startmate's Emma Grife]] - Perfect your pitch
 - [[29 Beyond the Deck: Storytelling Strategies for Winning Pitches, with Tinybean's Sarah-Jane Kurtini]] - Storytelling techniques
+
+## Bonus
+- [[33 Accelerator Application Hacks, with Startmate's Sam Monkhouse]]
