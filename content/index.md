@@ -45,4 +45,5 @@ Made by *Cing Hoih* on behalf of **CORTEXO**.
 - [[29 Beyond the Deck: Storytelling Strategies for Winning Pitches, with Tinybean's Sarah-Jane Kurtini]] - Storytelling techniques
 
 ## Bonus
+- [[Accelerator S26 Information Session AMA]]
 - [[33 Accelerator Application Hacks, with Startmate's Sam Monkhouse]]
