@@ -22,7 +22,7 @@
 #### Track record
 - **14 years operating**
 - **250+ startups invested**
-- **$3.5B+ cumulative portfolio value**
+- **\$3.5B+ cumulative portfolio value**
 - **Portfolio companies**: Micro, UpGuard, Propeller, Cake Equity, Heaps Normal, and many others
 - **Investor network**: Portfolio companies raise from top-tier Australian and US VCs
 
@@ -31,8 +31,8 @@
 #### Program basics
 - **Duration**: 14 weeks
 - **Format**: Remote-first with 3 in-person weeks
-- **Investment**: $120K at program start
-- **Valuation**: $1.5M post-money (standard) or match previous credible VC round
+- **Investment**: \$120K at program start
+- **Valuation**: \$1.5M post-money (standard) or match previous credible VC round
 - **Equity**: ~8% at standard terms
 - **Requirement**: At least one co-founder full-time
 
@@ -69,17 +69,17 @@
 **Dual Hub** (Most recent cohort):
 - Start: Early MVP, no customers, no revenue
 - Pivot: Week 6 based on customer feedback
-- End: $0 → $300K revenue in weeks
+- End: \$0 → \$300K revenue in weeks
 
 **Ever Ability** (Previous cohort):
-- Start: $20K ARR, 100+ customers, grassroots distribution
+- Start: \$20K ARR, 100+ customers, grassroots distribution
 - Program focus: Mentor-guided product improvements + sophisticated go-to-market
 - End: 4x revenue growth in 14 weeks
 
 **Pure Link** (Hardware/robotics, most recent cohort):
 - Start: No revenue, no customers, early MVP
 - Program: 200+ customer conversations → commercial-ready prototype
-- End: $120K pre-orders signed, $2M seed round announced post-program
+- End: \$120K pre-orders signed, \$2M seed round announced post-program
 
 **Born** (Physical postpartum hotel):
 - Start: Concept only, no customers, no revenue
@@ -88,7 +88,7 @@
 **Tyndall** (Previous cohort):
 - Start: Early MVP
 - Program: 100+ customer conversations → product pivot to broader vision
-- End: $2M pre-seed round closed 3 days after program completion
+- End: \$2M pre-seed round closed 3 days after program completion
 
 ### Application process and timeline
 
@@ -234,7 +234,7 @@ April 2023: [specific achievements]"
 
 #### "Too far along" (FALSE)
 - Program scales with your progress
-- Examples of companies with $500K+ revenue still benefiting
+- Examples of companies with \$500K+ revenue still benefiting
 - Bespoke mentoring regardless of stage
 - Focus shifts to scaling vs. validation
 
@@ -258,8 +258,8 @@ April 2023: [specific achievements]"
 ### Logistics and practicalities
 
 #### Investment terms
-- **Standard**: $120K at $1.5M post-money (~8% equity)
-- **Previous raise**: Match credible VC valuation if >$250K raised
+- **Standard**: \$120K at \$1.5M post-money (~8% equity)
+- **Previous raise**: Match credible VC valuation if >\$250K raised
 - **Use of funds**: No restrictions (travel, salaries, marketing, etc.)
 - **Credible VC definition**: Institutional investors (not friends/family rounds)
 
@@ -298,7 +298,7 @@ April 2023: [specific achievements]"
 
 #### vs. Founders Institute
 - **Mentor quality**: Invite-only, hands-on mentors with skin in the game
-- **Investment component**: $120K investment vs. education-only programs
+- **Investment component**: \$120K investment vs. education-only programs
 - **Ecosystem access**: Connected to broader Startmate network and alumni
 
 ### Selection process insights

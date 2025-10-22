@@ -51,7 +51,7 @@
 #### Team section (critical)
 **Question 1**: "Why are you the right team to solve this problem?"
 **Henry's example** (Promo Sync - trade promotions):
-"Led the turnaround of a $100M business case at Nestle to deliver 12% sales growth in one year... working with huge Australian and international clients"
+"Led the turnaround of a \$100M business case at Nestle to deliver 12% sales growth in one year... working with huge Australian and international clients"
 → Clear connection between experience and problem being solved
 
 **Question 2**: "Most impressive thing each co-founder has previously built (other than current company)"
@@ -71,7 +71,7 @@
 - Problem: Period poverty statistics
 - Solution: Smart dispensers with advertising
 - Authority: Midwife → marketing background, saw advertising waste
-- Traction: Global investor, $600K pipeline, venues locked in
+- Traction: Global investor, \$600K pipeline, venues locked in
 
 **Key insights**:
 - Authenticity over production quality
@@ -106,7 +106,7 @@
 - **Mid-2023**: MVP completed  
 - **Sep 2023-Jan 2024**: Hired team, revised model, found customers
 - **Jan 2024**: Confirmed pilot venues, secured angel funding
-- **Current**: 12 brands in pipeline, $500K+ potential deal value
+- **Current**: 12 brands in pipeline, \$500K+ potential deal value
 
 **Key insight**: Made significant progress before even installing first dispenser
 
@@ -157,11 +157,11 @@
 **Opening**: "I'm solving a global billion-dollar problem. No, I'm not talking about coffee meetup apps, but just as hot as your morning latte..."
 **Structure**: Problem → solution → authority → traction
 **Authenticity**: Started awkward, found groove (wife made him re-film boring first take)
-**Traction**: "In 8 weeks at Launch Club, spoke to 20+ industry leaders, agreed to build pilots for 3 customers including $20B company"
+**Traction**: "In 8 weeks at Launch Club, spoke to 20+ industry leaders, agreed to build pilots for 3 customers including \$20B company"
 
 #### Remy's application insights
 **Timeline approach**: Clear progression from idea → MVP → team → customers → traction
-**Specificity**: "$600K pipeline deals" not "significant pipeline"
+**Specificity**: "\$600K pipeline deals" not "significant pipeline"
 **Before-product traction**: Proved you can make progress before having full product
 
 ### Special considerations
